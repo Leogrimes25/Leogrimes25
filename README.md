@@ -18,4 +18,6 @@ HELLO WORLD ! Me chamo Vinicius Leonardo de Oliveira.
 
 <img align= "center" alt="vinicius-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
+<img align= "center" alt="vinicius-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 <div/>
