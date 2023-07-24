@@ -27,14 +27,16 @@ HELLO WORLD ! Me chamo Vinicius Leonardo de Oliveira.
 <img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg">
 
 <img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original.svg">
-<div/>
+
 <img align="center" alt="vinicius_VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+
+<div/>
 
 # Bibliotecas Python :
 
 <div style='display: inline_block'><br>
-<img align="center" alt="vinicius-VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg">
-<img align="center" alt="vinicius-VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg">
+<img align="center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg">
+<img align="center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg">
 
 
 
