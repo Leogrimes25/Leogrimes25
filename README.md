@@ -28,8 +28,8 @@ HELLO WORLD ! Me chamo Vinicius Leonardo de Oliveira.
 # Bibliotecas Python :
 
 <div style='display: inline_block'><br>
-<img align="center" alt="vinicius-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg">
-<img align="center" alt="vinicius-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg">
+<img align="center" alt="vinicius-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg">
+<img align="center" alt="vinicius-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg">
 
 
 
