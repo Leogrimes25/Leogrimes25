@@ -22,11 +22,11 @@ HELLO WORLD ! Me chamo Vinicius Leonardo de Oliveira.
 
 <img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Cassandra-Light.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Light.svg">
+<img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Light.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
+<img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
+<img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
 
 <div/>
 
