@@ -10,37 +10,27 @@ HELLO WORLD ! Me chamo Vinicius Leonardo de Oliveira.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leogrimes25&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
-# Tecnologias :
+# Tecnologias:
 <div style="display: inline_block"><br>
-<img align="center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg">
+<img align="center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
 
-<img align="center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Light.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg">
+<img align= "center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Cassandra-Light.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Light.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg">
+<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
 
-<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original.svg">
-
-<img align="center" alt="vinicius_VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+<img align= "center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
 
 <div/>
 
-# Bibliotecas Python :
-
-<div style='display: inline_block'><br>
-<img align="center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg">
-<img align="center" alt="vinicius-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg">
-
-
-
-# Redes Sociais que utilizo, segue link :
+# Contate-me :
 
 <a href="https://www.instagram.com/viniciusleooliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:vleonardo203@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
