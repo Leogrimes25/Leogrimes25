@@ -3,12 +3,6 @@ HELLO WORLD ! Me chamo Vinicius Leonardo de Oliveira.
 - Estudante Back-End, Análise de Dados e Ciência de Dados.
 - Atualmente estudando Framework Flask.
 
-<div align="center">
-  <a href="https://github.com/Leogrimes25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leogrimes25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leogrimes25&layout=compact&langs_count=7&theme=dracula"/>  
-</div>
-
 # Tecnologias:
 <div style="display: inline_block"><br>
 <img align="center" alt="vinicius-VSCODE" height="45" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
